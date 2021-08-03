@@ -1,1 +1,1 @@
-# ready-pool
+# READY Cardano stakepool 
