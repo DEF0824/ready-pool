@@ -1,1 +1,1 @@
-# READY Cardano stakepool 
+# READY is our Cardano stakepool 
